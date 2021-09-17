@@ -1,1 +1,3 @@
-# ATS601
+# ATS 601: Atmospheric Dynamics I
+
+For homework sets, code, notes.
